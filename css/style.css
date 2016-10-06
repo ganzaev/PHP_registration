@@ -1,0 +1,49 @@
+.div_mini {
+    font-size: 20px;
+    margin-top: 10px;
+    color: #2aabd2;
+}
+
+.div_main {
+    font-size: 14px;
+}
+
+.title {
+    color: green;
+    text-align: center;
+}
+
+.column_my {
+    padding-bottom: 20px;
+}
+
+#my_button {
+    font-size: 12px;
+    margin-left: 15px;
+}
+
+#log_out_button {
+    font-size: 12px;
+    float: right;
+    margin-top: 100px;
+}
+
+#edit_title_button {
+    font-size: 12px;
+    margin: 44px 50px;
+
+}
+
+.login_style {
+    font-size: 24px;
+    color: #c9302c;
+}
+
+.form {
+    float: right;
+    margin-right: 50px;
+}
+
+.center_login {
+    text-align: center;
+}
