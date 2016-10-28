@@ -6,8 +6,6 @@ use ganzaev\controllers\LogoutControllers;
 use ganzaev\controllers\RegisterControllers;
 
 
-//$sess = new Bootstrap();
-//$sess->start_session();
 $page = null;
 if (isset($_GET['page'])) {
     $page = $_GET['page'];
